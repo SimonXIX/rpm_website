@@ -1,0 +1,41 @@
+baseURL = 'http://localhost:1337'
+languageCode = 'en-gb'
+title = 'Cinema Per Minute'
+theme = 'yinyang'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    guessSyntax = true
+    noClasses = true
+    style = "bw"
+    tabWidth = 2
+
+[author]
+  name = "Simon Bowie"
+  homepage = "https://simonxix.com/"
+
+[params]
+mainSections = ["posts"]
+headTitle = 'Cinema Per Minute'
+description = 'film reviews as long as the film'
+footer = 'This website is © 2023 Simon Bowie and is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).'
+
+[[params.socials]]
+name = "About"
+link = "/about"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+name = "SimonXIX"
+link = "https://simonxix.com"
+
+postHeaderContent = ""
+postFooterContent = "<br/><br/><p>Subscribe to：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
+# extraCSSFiles = ["css/foo.css", "css/bar.css"]
+extraCSSFiles = []

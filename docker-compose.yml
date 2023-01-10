@@ -1,0 +1,17 @@
+version: "3.9"
+services:
+  hugo:
+    image: peaceiris/hugo:latest
+    container_name: hugo
+    volumes:
+      - ./cpm_website:/src
+
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    restart: unless-stopped
+    ports:
+      - '1337:1337'
+    volumes:
+      - ./nginx-conf:/etc/nginx/conf.d
+      - ./cpm_website/public:/var/www/html

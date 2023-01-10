@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cinema Per Minute</title>
+    <link>http://localhost:1337/</link>
+    <description>Recent content on Cinema Per Minute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1337/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eo - 86 mins</title>
+      <link>http://localhost:1337/posts/eo/</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/posts/eo/</guid>
+      <description>EO directed by Jerzy Skolimowski uses the language of cinema to push us to empathise with a non-human protagonist and therefore expand our sense of subjectivity to cover the perspective of its titular donkey. Without dialogue and with an incredible soundscape, EO follows a circus donkey as he encounters other animals and wanders through the ruins and conflicts of modern European history. Like Kossakovsky’s GUNDA and Arnold’s COW, EO pushes us to consider the exploitation of animals and the subjectivity of the others on this planet.</description>
+    </item>
+    
+    <item>
+      <title>Lost Hearts - 35 mins</title>
+      <link>http://localhost:1337/posts/lost_hearts/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/posts/lost_hearts/</guid>
+      <description>Not my favourite of Lawrence Gordon Clark’s Ghost Stories for Christmas, LOST HEARTS is altogether too literal. Adaptations of James work best when the haunting is diffuse, unknowable, and tied to the ghost of England.</description>
+    </item>
+    
+    <item>
+      <title>Glengarry Glen Ross - 100 mins</title>
+      <link>http://localhost:1337/posts/glengarry/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/posts/glengarry/</guid>
+      <description>Like THE BANSHEES OF INISHERIN, GLENGARRY GLEN ROSS feels like a play in that it’s carried by its terrific dialogue and performances. This is a man’s world (perhaps only one woman in the background in the Chinese restaurant) with all the toxicity and grime that that implies. These are Masters of the Universe in miniature: men who were raised to rule the world reduced to resetting their personalities wholesale to sell property deals that no-one needs and, since this is the only masculine satisfaction they can achieve, their whole world has been reduced to the game of lying and selling.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1337/about/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1337/about/</guid>
+      <description>Cinema Per Minute is film reviews as long as the film itself. Each review has a word count that corresponds to the length of the film in minutes (as recorded on Letterboxd). The longer the film, the longer the review.
+Cinema Per Minute is a project by Simon Bowie who is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
+This site is built using the Hugo static site generator and the theme Yinyang by Joway Wang licensed under the MIT License.</description>
+    </item>
+    
+  </channel>
+</rss>
