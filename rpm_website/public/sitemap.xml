@@ -5,6 +5,18 @@
     <loc>http://localhost:1337/posts/eo/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1337/posts/bonfire/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1337/posts/klute/</loc>
+    <lastmod>2023-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1337/categories/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1337/categories/film/</loc>
+    <lastmod>2023-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1337/posts/</loc>
     <lastmod>2023-01-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -19,8 +31,6 @@
   </url><url>
     <loc>http://localhost:1337/about/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1337/categories/</loc>
   </url><url>
     <loc>http://localhost:1337/tags/</loc>
   </url>

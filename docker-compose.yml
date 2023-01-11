@@ -4,7 +4,7 @@ services:
     image: peaceiris/hugo:latest
     container_name: hugo
     volumes:
-      - ./cpm_website:/src
+      - ./rpm_website:/src
 
   nginx:
     image: nginx:latest
@@ -14,4 +14,4 @@ services:
       - '1337:1337'
     volumes:
       - ./nginx-conf:/etc/nginx/conf.d
-      - ./cpm_website/public:/var/www/html
+      - ./rpm_website/public:/var/www/html

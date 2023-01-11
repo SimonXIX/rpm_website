@@ -4,6 +4,9 @@ description: ""
 tags: [
 ]
 date: "2023-01-04"
+categories: [
+  'film'
+]
 menu: "main"
 ---
 

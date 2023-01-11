@@ -5,6 +5,7 @@ menu:
   main:
 title: Eo - 86 mins
 categories: [
+  'film'
 ]
 weight: 10
 ---

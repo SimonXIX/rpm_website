@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reviews Per Minute</title>
-    <link>http://localhost:1337/</link>
-    <description>Recent content on Reviews Per Minute</description>
+    <title>film on Reviews Per Minute</title>
+    <link>http://localhost:1337/categories/film/</link>
+    <description>Recent content in film on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1337/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1337/categories/film/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Eo - 86 mins</title>
       <link>http://localhost:1337/posts/eo/</link>
@@ -50,15 +50,6 @@
       
       <guid>http://localhost:1337/posts/glengarry/</guid>
       <description>Like THE BANSHEES OF INISHERIN, GLENGARRY GLEN ROSS feels like a play in that it’s carried by its terrific dialogue and performances.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://localhost:1337/about/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1337/about/</guid>
-      <description>Reviews Per Minute is film reviews as long as the films themselves. Each review has a word count that corresponds to the length of the film in minutes (as recorded on Letterboxd).</description>
     </item>
     
   </channel>

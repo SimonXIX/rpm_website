@@ -2,6 +2,8 @@ baseURL = 'http://localhost:1337'
 languageCode = 'en-gb'
 title = 'Reviews Per Minute'
 theme = 'yinyang'
+paginate = 5
+summaryLength = 20
 
 [markup]
   [markup.goldmark]
@@ -23,17 +25,19 @@ headTitle = 'Reviews Per Minute'
 description = 'film reviews as long as the films'
 footer = 'This website is © 2023 Simon Bowie and is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).'
 
-[[params.socials]]
+[[params.links]]
 name = "About"
 link = "/about"
 
-[[params.socials]]
+[[params.links]]
 name = "RSS"
 link = "/index.xml"
+new_tab = true
 
-[[params.socials]]
+[[params.links]]
 name = "SimonXIX"
 link = "https://simonxix.com"
+new_tab = true
 
 postHeaderContent = ""
 # extraCSSFiles = ["css/foo.css", "css/bar.css"]

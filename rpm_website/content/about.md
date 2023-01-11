@@ -8,6 +8,6 @@ Reviews Per Minute is film reviews as long as the films themselves. Each review 
 
 Reviews Per Minute is a project by [Simon Bowie](https://simonxix.com) who is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
 
-This site is built using the [Hugo](https://gohugo.io/) static site generator and the theme [Yinyang](https://github.com/joway/hugo-theme-yinyang) by [Joway Wang](https://joway.io/) licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This site is built using the [Hugo](https://gohugo.io/) static site generator and the [Yinyang](https://github.com/joway/hugo-theme-yinyang) theme by [Joway Wang](https://joway.io/) with elements added from the [Rocinante](https://github.com/mavidser/hugo-rocinante) theme by [Sid Verma](https://sidverma.io/). Both themes are licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 All written content on the site is © 2023 [Simon Bowie](https://simonxix.com) and is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). The source code is available at https://github.com/SimonXIX/simonxix.com and is licensed under the [MIT License](https://opensource.org/licenses/MIT).
