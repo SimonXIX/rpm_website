@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Cinema Per Minute</title>
+    <title>Posts on Reviews Per Minute</title>
     <link>http://localhost:1337/posts/</link>
-    <description>Recent content in Posts on Cinema Per Minute</description>
+    <description>Recent content in Posts on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1337/posts/index.xml" rel="self" type="application/rss+xml" />

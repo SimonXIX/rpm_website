@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cinema Per Minute</title>
+    <title>Reviews Per Minute</title>
     <link>http://localhost:1337/</link>
-    <description>Recent content on Cinema Per Minute</description>
+    <description>Recent content on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Mon, 09 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1337/index.xml" rel="self" type="application/rss+xml" />
@@ -40,8 +40,8 @@
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1337/about/</guid>
-      <description>Cinema Per Minute is film reviews as long as the film itself. Each review has a word count that corresponds to the length of the film in minutes (as recorded on Letterboxd). The longer the film, the longer the review.
-Cinema Per Minute is a project by Simon Bowie who is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
+      <description>Reviews Per Minute is film reviews as long as the films themselves. Each review has a word count that corresponds to the length of the film in minutes (as recorded on Letterboxd). The longer the film, the longer the review.
+Reviews Per Minute is a project by Simon Bowie who is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
 This site is built using the Hugo static site generator and the theme Yinyang by Joway Wang licensed under the MIT License.</description>
     </item>
     

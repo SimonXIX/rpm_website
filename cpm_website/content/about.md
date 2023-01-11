@@ -4,9 +4,9 @@ date: "2023-01-01"
 menu: "main"
 ---
 
-Cinema Per Minute is film reviews as long as the film itself. Each review has a word count that corresponds to the length of the film in minutes (as recorded on [Letterboxd](https://letterboxd.com/)). The longer the film, the longer the review.
+Reviews Per Minute is film reviews as long as the films themselves. Each review has a word count that corresponds to the length of the film in minutes (as recorded on [Letterboxd](https://letterboxd.com/)). The longer the film, the longer the review.
 
-Cinema Per Minute is a project by [Simon Bowie](https://simonxix.com) who is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
+Reviews Per Minute is a project by [Simon Bowie](https://simonxix.com) who is a culture writer, film critic, open source systems developer, open licensing advocate, critical librarian, photographer, and podcaster.
 
 This site is built using the [Hugo](https://gohugo.io/) static site generator and the theme [Yinyang](https://github.com/joway/hugo-theme-yinyang) by [Joway Wang](https://joway.io/) licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
