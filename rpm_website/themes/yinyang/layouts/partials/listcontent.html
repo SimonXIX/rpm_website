@@ -1,6 +1,13 @@
 {{ range .Paginator.Pages }}
 <article class="post-list">
     <div class="title-group">
+        <div class="posts-categories">
+            {{ range .Params.categories }}
+            <div class="posts-category">
+                <a href="/categories/{{ lower . }}/"><strong>{{ . }}</strong></a>
+            </div>
+            {{ end }}
+        </div>
         <div class="title">
             <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
         </div>

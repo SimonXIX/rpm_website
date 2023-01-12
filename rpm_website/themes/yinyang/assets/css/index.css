@@ -143,9 +143,13 @@ a:hover {
 
 .posts-category {
   padding: 3px 0;
+  padding-left: 4%;
+  padding-right: 4%;
   border: #000 2px solid;
   border-radius: 5px;
   /* margin-bottom: 3px; */
+  float: right;
+  clear: both;
 }
 
 .site-footer {
