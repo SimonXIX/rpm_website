@@ -1,0 +1,3 @@
+[submodule "rpm_website/themes/yinante"]
+	path = rpm_website/themes/yinante
+	url = https://github.com/SimonXIX/hugo-theme-yinante

@@ -1,7 +1,7 @@
 baseURL = 'https://reviewsperminute.simonxix.com/'
 languageCode = 'en-gb'
 title = 'Reviews Per Minute'
-theme = 'yinyang'
+theme = 'yinante'
 paginate = 5
 summaryLength = 20
 
