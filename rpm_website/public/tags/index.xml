@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Reviews Per Minute</title>
-    <link>http://localhost:1337/tags/</link>
+    <link>https://reviewsperminute.simonxix.com/tags/</link>
     <description>Recent content in Tags on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="http://localhost:1337/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://reviewsperminute.simonxix.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

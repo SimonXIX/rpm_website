@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Reviews Per Minute</title>
-    <link>http://localhost:1337/posts/</link>
+    <link>https://reviewsperminute.simonxix.com/posts/</link>
     <description>Recent content in Posts on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1337/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rashomon (羅生門) - 88 mins</title>
-      <link>http://localhost:1337/posts/rashomon/</link>
+      <link>https://reviewsperminute.simonxix.com/posts/rashomon/</link>
       <pubDate>Sun, 08 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1337/posts/rashomon/</guid>
+      <guid>https://reviewsperminute.simonxix.com/posts/rashomon/</guid>
       <description>A post-apocalyptic period piece filmed in the context of the nuclear annihilation of two cities and 220,000 people, RASHOMON strips down humanity until it finds cynicism, deceit, selfishness, and despair.</description>
     </item>
     
     <item>
       <title>The Bonfire of the Vanities - 125 mins</title>
-      <link>http://localhost:1337/posts/bonfire/</link>
+      <link>https://reviewsperminute.simonxix.com/posts/bonfire/</link>
       <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1337/posts/bonfire/</guid>
+      <guid>https://reviewsperminute.simonxix.com/posts/bonfire/</guid>
       <description>If you set out to purposefully miscast a film, you couldn’t do a better job than THE BONFIRE OF THE VANITIES did inadvertently.</description>
     </item>
     
     <item>
       <title>Klute - 114 mins</title>
-      <link>http://localhost:1337/posts/klute/</link>
+      <link>https://reviewsperminute.simonxix.com/posts/klute/</link>
       <pubDate>Fri, 06 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1337/posts/klute/</guid>
+      <guid>https://reviewsperminute.simonxix.com/posts/klute/</guid>
       <description>A great performance from Jane Fonda as a sex worker whose reward for navigating a paranoid world of shadowy figures and sexual assault is to end up with John Klute (Donald Sutherland), the most boring man alive.</description>
     </item>
     
     <item>
       <title>Lost Hearts - 35 mins</title>
-      <link>http://localhost:1337/posts/lost_hearts/</link>
+      <link>https://reviewsperminute.simonxix.com/posts/lost_hearts/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1337/posts/lost_hearts/</guid>
+      <guid>https://reviewsperminute.simonxix.com/posts/lost_hearts/</guid>
       <description>Not my favourite of Lawrence Gordon Clark’s Ghost Stories for Christmas, LOST HEARTS is altogether too literal. Adaptations of James work best when the haunting is diffuse, unknowable, and tied to the ghost of England.</description>
     </item>
     
     <item>
       <title>Glengarry Glen Ross - 100 mins</title>
-      <link>http://localhost:1337/posts/glengarry/</link>
+      <link>https://reviewsperminute.simonxix.com/posts/glengarry/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1337/posts/glengarry/</guid>
+      <guid>https://reviewsperminute.simonxix.com/posts/glengarry/</guid>
       <description>Like THE BANSHEES OF INISHERIN, GLENGARRY GLEN ROSS feels like a play in that it’s carried by its terrific dialogue and performances.</description>
     </item>
     
