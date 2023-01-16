@@ -3,7 +3,7 @@ date: 2023-01-07
 linktitle: The Bonfire of the Vanities
 menu:
   main:
-title: The Bonfire of the Vanities - 125 mins
+title: The Bonfire of the Vanities (1990) - 125 mins
 categories: [
   'film'
 ]

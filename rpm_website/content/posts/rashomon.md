@@ -3,7 +3,7 @@ date: 2023-01-08
 linktitle: Rashomon
 menu:
   main:
-title: Rashomon (羅生門) - 88 mins
+title: Rashomon (羅生門) (1950) - 88 mins
 categories: [
   'film'
 ]

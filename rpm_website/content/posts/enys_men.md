@@ -3,7 +3,7 @@ date: 2023-01-12
 linktitle: Enys Men
 menu:
   main:
-title: Enys Men - 96 mins
+title: Enys Men (2022) - 96 mins
 categories: [
   'film'
 ]

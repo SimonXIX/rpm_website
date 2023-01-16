@@ -1,5 +1,5 @@
 ---
-title: "Lost Hearts - 35 mins"
+title: "Lost Hearts (1973) - 35 mins"
 description: ""
 tags: [
 

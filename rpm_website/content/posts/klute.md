@@ -3,7 +3,7 @@ date: 2023-01-06
 linktitle: Klute
 menu:
   main:
-title: Klute - 114 mins
+title: Klute (1971) - 114 mins
 categories: [
   'film'
 ]

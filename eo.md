@@ -3,7 +3,7 @@ date: 2023-01-09
 linktitle: Eo
 menu:
   main:
-title: Eo - 86 mins
+title: Eo (2022) - 86 mins
 categories: [
   'film'
 ]

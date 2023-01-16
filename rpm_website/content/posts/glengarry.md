@@ -1,5 +1,5 @@
 ---
-title: "Glengarry Glen Ross - 100 mins"
+title: "Glengarry Glen Ross (1992) - 100 mins"
 description: ""
 tags: [
 ]
