@@ -5,7 +5,8 @@ menu:
   main:
 title: Enys Men (2022) - 96 mins
 categories: [
-  'film'
+  'film',
+  'longer-review-available'
 ]
 weight: 10
 ---

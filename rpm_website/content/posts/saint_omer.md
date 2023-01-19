@@ -5,7 +5,8 @@ menu:
   main:
 title: Saint Omer (2022) - 123 mins
 categories: [
-  'film'
+  'film',
+  'longer-review-available'
 ]
 weight: 10
 ---

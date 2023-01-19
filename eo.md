@@ -5,7 +5,8 @@ menu:
   main:
 title: Eo (2022) - 86 mins
 categories: [
-  'film'
+  'film',
+  'longer-review-available'
 ]
 weight: 10
 ---

@@ -6,13 +6,22 @@
     <description>Recent content in Categories on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>film</title>
       <link>https://reviewsperminute.simonxix.com/categories/film/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://reviewsperminute.simonxix.com/categories/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>longer-review-available</title>
+      <link>https://reviewsperminute.simonxix.com/categories/longer-review-available/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/categories/longer-review-available/</guid>
       <description></description>
     </item>
     

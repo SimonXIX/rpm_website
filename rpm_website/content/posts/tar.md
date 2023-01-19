@@ -5,7 +5,8 @@ menu:
   main:
 title: Tár (2022) - 158 mins
 categories: [
-  'film'
+  'film',
+  'longer-review-available'
 ]
 weight: 10
 ---
