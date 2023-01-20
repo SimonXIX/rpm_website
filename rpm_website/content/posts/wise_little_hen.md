@@ -10,4 +10,4 @@ categories: [
 weight: 10
 ---
 
-Hen refuses to share obvious excess with grotesque pig.
+Hen won't share obvious excess with grotesque pig.
