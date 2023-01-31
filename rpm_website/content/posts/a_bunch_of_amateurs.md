@@ -1,5 +1,5 @@
 ---
-date: 2023-01-31
+date: 2023-01-30
 linktitle: A Bunch of Amateurs
 menu:
   main:
