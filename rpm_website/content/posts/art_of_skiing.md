@@ -5,7 +5,7 @@ menu:
   main:
 title: The Art of Skiing (1941) - 8 mins
 categories: [
-  'short film'
+  'short-film'
 ]
 weight: 10
 ---

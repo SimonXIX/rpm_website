@@ -5,7 +5,7 @@ menu:
   main:
 title: Nice Jam (2001) - 2 mins
 categories: [
-  'short film'
+  'short-film'
 ]
 weight: 10
 ---
