@@ -5,7 +5,7 @@ menu:
   main:
 title: The Wise Little Hen (1934) - 8 mins
 categories: [
-  'film'
+  'short film'
 ]
 weight: 10
 ---

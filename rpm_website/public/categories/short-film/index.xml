@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>short film on Reviews Per Minute</title>
+    <link>https://reviewsperminute.simonxix.com/categories/short-film/</link>
+    <description>Recent content in short film on Reviews Per Minute</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/short-film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of Skiing (1941) - 8 mins</title>
+      <link>https://reviewsperminute.simonxix.com/posts/art_of_skiing/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/posts/art_of_skiing/</guid>
+      <description>Instructional video parodies always the best Disney cartoons.</description>
+    </item>
+    
+    <item>
+      <title>Nice Jam (2001) - 2 mins</title>
+      <link>https://reviewsperminute.simonxix.com/posts/nice_jam/</link>
+      <pubDate>Tue, 31 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/posts/nice_jam/</guid>
+      <description>Jam&amp;rsquo;s nice.</description>
+    </item>
+    
+    <item>
+      <title>The Wise Little Hen (1934) - 8 mins</title>
+      <link>https://reviewsperminute.simonxix.com/posts/wise_little_hen/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/posts/wise_little_hen/</guid>
+      <description>Hen won&amp;rsquo;t share obvious excess with grotesque pig.</description>
+    </item>
+    
+  </channel>
+</rss>

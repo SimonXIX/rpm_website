@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 25 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>film</title>
       <link>https://reviewsperminute.simonxix.com/categories/film/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://reviewsperminute.simonxix.com/categories/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GFF2023</title>
+      <link>https://reviewsperminute.simonxix.com/categories/gff2023/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/categories/gff2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>longer-review-available</title>
+      <link>https://reviewsperminute.simonxix.com/categories/longer-review-available/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/categories/longer-review-available/</guid>
       <description></description>
     </item>
     
@@ -26,11 +44,11 @@
     </item>
     
     <item>
-      <title>longer-review-available</title>
-      <link>https://reviewsperminute.simonxix.com/categories/longer-review-available/</link>
-      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <title>short film</title>
+      <link>https://reviewsperminute.simonxix.com/categories/short-film/</link>
+      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://reviewsperminute.simonxix.com/categories/longer-review-available/</guid>
+      <guid>https://reviewsperminute.simonxix.com/categories/short-film/</guid>
       <description></description>
     </item>
     
