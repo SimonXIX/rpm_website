@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 11 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>short-film</title>
+      <link>https://reviewsperminute.simonxix.com/categories/short-film/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/categories/short-film/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>film</title>
       <link>https://reviewsperminute.simonxix.com/categories/film/</link>
@@ -28,7 +37,7 @@
     <item>
       <title>longer-review-available</title>
       <link>https://reviewsperminute.simonxix.com/categories/longer-review-available/</link>
-      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://reviewsperminute.simonxix.com/categories/longer-review-available/</guid>
       <description></description>
@@ -40,15 +49,6 @@
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://reviewsperminute.simonxix.com/categories/television/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>short-film</title>
-      <link>https://reviewsperminute.simonxix.com/categories/short-film/</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://reviewsperminute.simonxix.com/categories/short-film/</guid>
       <description></description>
     </item>
     
