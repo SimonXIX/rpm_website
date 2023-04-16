@@ -3,7 +3,7 @@ date: 2023-04-15
 linktitle: I, Martha Gowans
 menu:
   main:
-title: I, Martha Gowans (2022) - 14 mins
+title: I, Martha Gowans (2023) - 14 mins
 categories: [
   'short-film',
 ]
