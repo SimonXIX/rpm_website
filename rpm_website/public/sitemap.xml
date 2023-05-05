@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://reviewsperminute.simonxix.com/posts/t2_trainspotting/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reviewsperminute.simonxix.com/posts/trainspotting/</loc>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/stories_we_tell/</loc>
     <lastmod>2023-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -100,9 +106,6 @@
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/nightsiren/</loc>
     <lastmod>2023-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://reviewsperminute.simonxix.com/drafts/the_astronaut/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/therapy_dogs/</loc>
     <lastmod>2023-02-26T00:00:00+00:00</lastmod>
@@ -207,16 +210,16 @@
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/film/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/short-film/</loc>
     <lastmod>2023-04-15T00:00:00+00:00</lastmod>
@@ -229,9 +232,6 @@
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/longer-review-available/</loc>
     <lastmod>2023-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://reviewsperminute.simonxix.com/drafts/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/television/</loc>
     <lastmod>2023-02-14T00:00:00+00:00</lastmod>
