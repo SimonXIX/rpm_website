@@ -5,7 +5,8 @@ menu:
   main:
 title: Rushmore (1998) - 93 mins
 categories: [
-  'film'
+  'film',
+  'Wes-Anderson'
 ]
 weight: 10
 ---

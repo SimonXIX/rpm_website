@@ -5,7 +5,8 @@ menu:
   main:
 title: Asteroid City (2023) - 105 mins
 categories: [
-  'film'
+  'film',
+  'Wes-Anderson'
 ]
 weight: 10
 ---

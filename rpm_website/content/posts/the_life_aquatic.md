@@ -5,7 +5,8 @@ menu:
   main:
 title: The Life Aquatic with Steve Zissou (2004) - 119 mins
 categories: [
-  'film'
+  'film',
+  'Wes-Anderson'
 ]
 weight: 10
 ---

@@ -5,7 +5,9 @@ menu:
   main:
 title: Alien³ (1992) - 114 mins
 categories: [
-  'film'
+  'film',
+  'longer-review-available',
+  'The-Xenopod'
 ]
 weight: 10
 ---
