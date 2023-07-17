@@ -6,7 +6,7 @@ menu:
 title: Tár (2022) - 158 mins
 categories: [
   'film',
-  'longer-review-available'
+  'Cinetopia'
 ]
 weight: 10
 ---
@@ -15,4 +15,4 @@ Cate Blanchett plays Lydia Tár as a charming, authoritative, magnetic, and terr
 
 From its opening moments, the film signifies that it’s a reversal, discussing men’s abuse of power through the absence of a powerful male protagonist. Tár being a woman lets us feel a complex empathy that the audience would not feel for a man. If Tár were a man, the film would be flattened into a film about Louis CK or Harvey Weinstein which would be a disservice to the complexity of the film’s actual exploration of abused power dynamics.
 
-(Full review available on Cinetopia podcast: https://anchor.fm/cinetopia/episodes/January-2023-on-EHFM-Reviews-of-Tar--Enys-Men--Saint-Omer--EO-and-an-interview-with-Sean-Lonadh--director-of-Too-Rough-e1tj9h7)
+Full review available on Cinetopia podcast: https://anchor.fm/cinetopia/episodes/January-2023-on-EHFM-Reviews-of-Tar--Enys-Men--Saint-Omer--EO-and-an-interview-with-Sean-Lonadh--director-of-Too-Rough-e1tj9h7

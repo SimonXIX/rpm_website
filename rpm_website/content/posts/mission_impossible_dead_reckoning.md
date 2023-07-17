@@ -6,7 +6,8 @@ menu:
 title: 'Mission: Impossible – Dead Reckoning Part One (2023) - 163 mins'
 categories: [
   'film',
-  'longer-review-available'
+  'Mission-Impossible',
+  'Cinetopia'
 ]
 weight: 10
 ---

@@ -7,7 +7,7 @@ title: Other People’s Children (Les Enfants des autres) (2022) - 104 mins
 categories: [
   'film',
   'GFF2023',
-  'longer-review-available'
+  'TAKE-ONE'
 ]
 weight: 10
 ---

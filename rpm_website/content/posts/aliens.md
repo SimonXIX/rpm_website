@@ -6,7 +6,6 @@ menu:
 title: Aliens (1986) - 137 mins
 categories: [
   'film',
-  'longer-review-available',
   'The-Xenopod'
 ]
 weight: 10

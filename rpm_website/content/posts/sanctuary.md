@@ -7,7 +7,7 @@ title: Sanctuary (2022) - 96 mins
 categories: [
   'film',
   'GFF2023',
-  'longer-review-available'
+  'TAKE ONE'
 ]
 weight: 10
 ---

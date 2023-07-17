@@ -6,6 +6,7 @@ menu:
 title: 'Mission: Impossible 2 (2000) - 123 mins'
 categories: [
   'film',
+  'Mission-Impossible'
 ]
 weight: 10
 ---

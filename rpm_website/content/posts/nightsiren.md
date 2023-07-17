@@ -7,7 +7,7 @@ title: Nightsiren (Svetlonoc) (2022) - 109 mins
 categories: [
   'film',
   'GFF2023',
-  'longer-review-available'
+  'TAKE-ONE'
 ]
 weight: 10
 ---

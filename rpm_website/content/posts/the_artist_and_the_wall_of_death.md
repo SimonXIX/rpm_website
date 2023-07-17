@@ -7,7 +7,7 @@ title: The Artist and the Wall of Death (2022) - 86 mins
 categories: [
   'film',
   'GFF2023',
-  'longer-review-available'
+  'TAKE-ONE'
 ]
 weight: 10
 ---

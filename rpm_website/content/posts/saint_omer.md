@@ -6,7 +6,7 @@ menu:
 title: Saint Omer (2022) - 123 mins
 categories: [
   'film',
-  'longer-review-available'
+  'Cinetopia'
 ]
 weight: 10
 ---

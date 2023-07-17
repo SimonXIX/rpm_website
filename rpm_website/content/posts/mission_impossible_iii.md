@@ -6,6 +6,7 @@ menu:
 title: 'Mission: Impossible III (2006) - 126 mins'
 categories: [
   'film',
+  'Mission-Impossible'
 ]
 weight: 10
 ---

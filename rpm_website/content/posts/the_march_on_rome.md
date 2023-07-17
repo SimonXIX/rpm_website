@@ -7,7 +7,7 @@ title: The March on Rome (Marcia su Roma) (2022) - 97 mins
 categories: [
   'film',
   'GFF2023',
-  'longer-review-available',
+  'Cinetopia',
 ]
 weight: 10
 ---

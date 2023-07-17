@@ -6,7 +6,7 @@ menu:
 title: Shabu (2021) - 75 mins
 categories: [
   'film',
-  'longer-review-available'
+  'Cinetopia'
 ]
 weight: 10
 ---

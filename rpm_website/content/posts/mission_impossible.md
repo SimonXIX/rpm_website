@@ -6,6 +6,7 @@ menu:
 title: 'Mission: Impossible (1996) - 110 mins'
 categories: [
   'film',
+  'Mission-Impossible'
 ]
 weight: 10
 ---

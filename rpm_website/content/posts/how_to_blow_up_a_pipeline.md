@@ -7,7 +7,7 @@ title: How to Blow Up a Pipeline (2022) - 104 mins
 categories: [
   'film',
   'GFF2023',
-  'longer-review-available'
+  'TAKE-ONE'
 ]
 weight: 10
 ---
