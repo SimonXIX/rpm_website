@@ -30,6 +30,10 @@ name = "About"
 link = "/about"
 
 [[params.links]]
+name = "Categories"
+link = "/categories"
+
+[[params.links]]
 name = "RSS"
 link = "/index.xml"
 new_tab = true
