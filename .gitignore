@@ -1,1 +1,4 @@
 rpm_website/content/drafts/
+.DS_Store
+rpm_website/.DS_Store
+rpm_website/themes/.DS_Store
