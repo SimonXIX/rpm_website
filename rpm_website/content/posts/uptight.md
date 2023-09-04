@@ -6,6 +6,7 @@ menu:
 title: Uptight (1968) - 104 mins
 categories: [
   'film',
+  'GFT'
 ]
 weight: 10
 ---

@@ -6,7 +6,8 @@ menu:
 title: Enys Men (2022) - 96 mins
 categories: [
   'film',
-  'Cinetopia'
+  'Cinetopia',
+  'GFT'
 ]
 weight: 10
 ---

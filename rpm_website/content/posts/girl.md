@@ -7,6 +7,7 @@ title: Girl (2023) - 87 mins
 categories: [
   'film',
   'GFF2023',
+  'GFT'
 ]
 weight: 10
 ---

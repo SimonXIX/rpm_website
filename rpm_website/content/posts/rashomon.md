@@ -5,7 +5,8 @@ menu:
   main:
 title: Rashomon (羅生門) (1950) - 88 mins
 categories: [
-  'film'
+  'film',
+  'GFT'
 ]
 weight: 10
 ---

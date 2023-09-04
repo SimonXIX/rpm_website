@@ -6,6 +6,7 @@ menu:
 title: Afire (Roter Himmel) (2023) - 103 mins
 categories: [
   'film',
+  'GFT'
 ]
 weight: 10
 ---

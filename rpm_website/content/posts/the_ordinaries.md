@@ -7,7 +7,8 @@ title: The Ordinaries (2022) - 120 mins
 categories: [
   'film',
   'GFF2023',
-  'TAKE-ONE'
+  'TAKE-ONE',
+  'GFT'
 ]
 weight: 10
 ---

@@ -5,7 +5,8 @@ menu:
   main:
 title: All the Beauty and the Bloodshed (2022) - 121 mins
 categories: [
-  'film'
+  'film',
+  'GFT'
 ]
 weight: 10
 ---

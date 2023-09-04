@@ -5,7 +5,8 @@ menu:
   main:
 title: Women Talking (2022) - 104 mins
 categories: [
-  'film'
+  'film',
+  'GFT'
 ]
 weight: 10
 ---

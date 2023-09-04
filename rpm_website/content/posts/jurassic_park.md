@@ -6,6 +6,7 @@ menu:
 title: Jurassic Park (1993) - 127 mins
 categories: [
   'film',
+  'GFT'
 ]
 weight: 10
 ---

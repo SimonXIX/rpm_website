@@ -7,7 +7,8 @@ title: Polite Society (2023) - 103 mins
 categories: [
   'film',
   'GFF2023',
-  'TAKE-ONE'
+  'TAKE-ONE',
+  'GFT'
 ]
 weight: 10
 ---

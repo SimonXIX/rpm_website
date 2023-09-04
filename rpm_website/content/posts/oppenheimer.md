@@ -6,6 +6,7 @@ menu:
 title: Oppenheimer (2023) - 181 mins
 categories: [
   'film',
+  'GFT'
 ]
 weight: 10
 ---

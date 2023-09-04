@@ -5,7 +5,8 @@ menu:
   main:
 title: Leonor Will Never Die (Ang Pagbabalik ng Kwago) (2022) - 99 mins
 categories: [
-  'film'
+  'film',
+  'GFT'
 ]
 weight: 10
 ---

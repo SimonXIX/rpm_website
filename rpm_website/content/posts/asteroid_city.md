@@ -8,7 +8,8 @@ categories: [
   'film',
   'TAKE-ONE',
   'Wes-Anderson',
-  'Cinetopia'
+  'Cinetopia',
+  'GFT'
 ]
 weight: 10
 ---

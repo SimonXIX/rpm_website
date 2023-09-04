@@ -7,6 +7,7 @@ title: Consecration (2023) - 90 mins
 categories: [
   'film',
   'GFF2023',
+  'GFT'
 ]
 weight: 10
 ---
