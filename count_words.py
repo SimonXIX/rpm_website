@@ -12,6 +12,7 @@ import pathlib
 
 # VARIABLES
 input_directory = '/Users/ad7588/projects/rpm_website/rpm_website/content/posts'
+mins_regex = '(\d+)\s*(?:/[^/]*)?\s*mins'
 
 # SUBROUTINES
 
@@ -21,11 +22,15 @@ def count_words(directory):
     # iterate over files in input directory
     for filename in os.listdir(directory):
         f = os.path.join(directory, filename)
+        # read file and extract Markdown metadata
         data = pathlib.Path(f).read_text(encoding='utf-8')
         md = markdown.Markdown(extensions=['meta'])
         md.convert(data)
-        count_string = re.search("(\d+)\s*(?:/[^/]*)?\s*mins", str(md.Meta['title']))
+        # search the title field for number of minutes using regex
+        count_string = re.search(mins_regex, str(md.Meta['title']))
+        # transform string from match to integer
         count_int = int(count_string.groups(1)[0])
+        # add to total
         count_total += count_int
 
     return(count_total)
