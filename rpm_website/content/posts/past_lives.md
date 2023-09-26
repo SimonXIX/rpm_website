@@ -6,6 +6,7 @@ menu:
 title: Past Lives (2023) - 106 mins
 categories: [
   'film',
+  'GFT',
   'Cinetopia'
 ]
 weight: 10
