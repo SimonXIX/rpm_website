@@ -11,4 +11,4 @@ categories: [
 weight: 10
 ---
 
-A compelling experiment in marrying Anderson and Yeoman’s aesthetic to a straight adaptation although the non-Anderson original text contains several Anderson hallmarks: the nested structure; the quick-wittedness. Something urgent about Sugar saying “I don’t want to be the richest man on Earth.”
+A compelling experiment in marrying Anderson and Yeoman’s aesthetic to a straight adaptation although Dahl’s original text contains several Anderson hallmarks: nested structure; quick-wittedness. Very significant right now to hear Sugar saying “I don’t want to be the richest man on Earth.”
