@@ -7,7 +7,9 @@ title: Saltburn (2023) - 131 mins
 categories: [
   'film',
   'LFF2023',
-  'GFT'
+  'GFT',
+  'TAKE-ONE',
+  'Cinetopia'
 ]
 weight: 10
 ---
@@ -17,3 +19,5 @@ Emerald Fennell follows up her debut with another black comedy dealing with a ve
 Though beautifully shot by Linus Sandgren, the film itself is wildly uneven, spending a lot of time building up to a rushed and inelegant denouement. After a specific plot beat, the film’s momentum falls into a lake. 
 
 All that said, it’s a fun film and it’s a pleasure to see Barry Keoghan, Rosamund Pike, and Richard E. Grant having a great time with their roles.
+
+Full review available on TAKE ONE (https://takeonecinema.net/2023/saltburn/) 
