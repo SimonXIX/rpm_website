@@ -5,7 +5,8 @@ menu:
   main:
 title: Indiana Jones and the Last Crusade (1989) - 127 mins
 categories: [
-  'film'
+  'film',
+  'Steven-Spielberg'
 ]
 weight: 10
 ---

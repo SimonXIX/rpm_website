@@ -6,6 +6,7 @@ menu:
 title: Munich (2005) - 164 mins
 categories: [
   'film',
+  'Steven-Spielberg'
 ]
 weight: 10
 ---

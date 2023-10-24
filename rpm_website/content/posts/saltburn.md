@@ -20,4 +20,4 @@ Though beautifully shot by Linus Sandgren, the film itself is wildly uneven, spe
 
 All that said, it’s a fun film and it’s a pleasure to see Barry Keoghan, Rosamund Pike, and Richard E. Grant having a great time with their roles.
 
-Full review available on TAKE ONE (https://takeonecinema.net/2023/saltburn/) 
+Full reviews available on TAKE ONE (https://takeonecinema.net/2023/saltburn/) and Cinetopia podcast (https://podcasters.spotify.com/pod/show/cinetopia/episodes/October-on-EHFM-2023-London-Film-Festival-Coverage-and-Interview-with-Paul-Bruce--Director-of-Edinburgh-Short-Film-Festival-and-actor-Jamie-Robson-e2an542).
