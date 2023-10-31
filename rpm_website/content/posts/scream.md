@@ -1,13 +1,13 @@
 ---
-date: 2023-10-29
+date: 2023-10-30
 linktitle: Scream
 menu:
   main:
-title: Scream (2022) - 114 mins
+title: Scream (1996) - 112 mins
 categories: [
   'film',
 ]
 weight: 10
 ---
 
-Postmodernity and irony requires self-knowledge and it’s very easy for that sense of knowing to come off as smug. That’s the case when SCREAM ironically riffs on the idea of the legacy sequel, the requel, but does so without the core of sincerity that something like THE MATRIX RESURRECTIONS or STAR WARS: THE FORCE AWAKENS has. The film is best when it’s good stabby fun and it’s not jamming in emotional crescendos for characters who have only just turned up. The scene of Wes (Dylan Minnette) opening multiple doors and the music heightening only for it to be a fake out every time could have gone on for hours and delighted me every time.
+The film adaptation of Carol Clover’s *Men, Women, and Chain Saws*. Unsurprisingly this is much more subtle, clever, and effective than SCREAM (2022). SCREAM (1996) riffs on the ‘80s and ‘90s market saturation of horror films and slashers in particular in a way that feels authentic to the postmodernity of the ‘90s while also ensuring that the characters are well-drawn and have emotional cores. Wes Craven’s camera, especially in the opening scene, is far more interesting than in the requel with dynamic movements and subtle fisheye lenses. I was delighted to discover that characters opening doors while the music heightens and then there’s no killer behind the door is a franchise staple.
