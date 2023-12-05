@@ -12,7 +12,7 @@ import pathlib
 
 # VARIABLES
 input_directory = '/Users/ad7588/projects/rpm_website/rpm_website/content/posts'
-mins_regex = '(\d+)\s*(?:/[^/]*)?\s*mins'
+mins_regex = '(\d+)\s*(?:/[^/]*)?\s*mins|min'
 
 # SUBROUTINES
 
