@@ -6,6 +6,7 @@ menu:
 title: Anatomy of a Fall (Anatomie d'une chute) (2023) - 152 mins
 categories: [
   'film',
+  'top-films-2023'
 ]
 weight: 10
 ---

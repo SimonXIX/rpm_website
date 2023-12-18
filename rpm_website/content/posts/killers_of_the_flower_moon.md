@@ -6,7 +6,8 @@ menu:
 title: Killers of the Flower Moon (2023) - 206 mins
 categories: [
   'film',
-  'GFT'
+  'GFT',
+  'top-films-2023'
 ]
 weight: 10
 ---

@@ -6,7 +6,8 @@ menu:
 title: Tár (2022) - 158 mins
 categories: [
   'film',
-  'Cinetopia'
+  'Cinetopia',
+  'top-films-2023'
 ]
 weight: 10
 ---

@@ -8,7 +8,8 @@ categories: [
   'film',
   'GFF2023',
   'TAKE-ONE',
-  'GFT'
+  'GFT',
+  'top-films-2023'
 ]
 weight: 10
 ---

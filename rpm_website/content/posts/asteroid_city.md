@@ -9,7 +9,8 @@ categories: [
   'TAKE-ONE',
   'Wes-Anderson',
   'Cinetopia',
-  'GFT'
+  'GFT',
+  'top-films-2023'
 ]
 weight: 10
 ---

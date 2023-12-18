@@ -6,7 +6,8 @@ menu:
 title: Barbie (2023) - 114 mins
 categories: [
   'film',
-  'GFT'
+  'GFT',
+  'top-films-2023'
 ]
 weight: 10
 ---

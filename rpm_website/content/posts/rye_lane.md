@@ -5,7 +5,8 @@ menu:
   main:
 title: Rye Lane (2023) - 82 mins
 categories: [
-  'film'
+  'film',
+  'top-films-2023'
 ]
 weight: 10
 ---

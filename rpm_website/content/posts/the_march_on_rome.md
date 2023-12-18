@@ -8,6 +8,7 @@ categories: [
   'film',
   'GFF2023',
   'Cinetopia',
+  'top-films-2023'
 ]
 weight: 10
 ---
