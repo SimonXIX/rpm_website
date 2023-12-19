@@ -6,7 +6,8 @@ menu:
 title: Christmas Cupcakes (2018) - 90 mins
 categories: [
   'film',
-  'missed-part-of-it'
+  'missed-part-of-it',
+  'Christmas'
 ]
 weight: 10
 ---

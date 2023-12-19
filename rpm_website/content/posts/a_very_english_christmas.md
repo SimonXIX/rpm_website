@@ -6,7 +6,8 @@ menu:
 title: A Very English Christmas (Christmas in the Cotswolds) (2023) - 90 mins
 categories: [
   'film',
-  'missed-part-of-it'
+  'missed-part-of-it',
+  'Christmas'
 ]
 weight: 10
 ---

@@ -6,13 +6,31 @@
     <description>Recent content in Categories on Reviews Per Minute</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Christmas</title>
+      <link>https://reviewsperminute.simonxix.com/categories/christmas/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/categories/christmas/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>film</title>
       <link>https://reviewsperminute.simonxix.com/categories/film/</link>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://reviewsperminute.simonxix.com/categories/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GFT</title>
+      <link>https://reviewsperminute.simonxix.com/categories/gft/</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://reviewsperminute.simonxix.com/categories/gft/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://reviewsperminute.simonxix.com/categories/top-films-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GFT</title>
-      <link>https://reviewsperminute.simonxix.com/categories/gft/</link>
-      <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://reviewsperminute.simonxix.com/categories/gft/</guid>
       <description></description>
     </item>
     

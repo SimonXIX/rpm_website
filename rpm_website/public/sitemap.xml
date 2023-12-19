@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://reviewsperminute.simonxix.com/posts/tokyo_godfathers/</loc>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/a_merry_scottish_christmas/</loc>
     <lastmod>2023-12-17T00:00:00+00:00</lastmod>
   </url><url>
@@ -612,16 +615,22 @@
     <lastmod>2023-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reviewsperminute.simonxix.com/categories/christmas/</loc>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/film/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reviewsperminute.simonxix.com/categories/gft/</loc>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/</loc>
-    <lastmod>2023-12-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/short-film/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
@@ -631,9 +640,6 @@
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/top-films-2023/</loc>
     <lastmod>2023-11-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://reviewsperminute.simonxix.com/categories/gft/</loc>
-    <lastmod>2023-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/steven-spielberg/</loc>
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>

@@ -5,7 +5,8 @@ menu:
   main:
 title: American Psycho (2000) - 102 mins
 categories: [
-  'film'
+  'film',
+  'Christmas'
 ]
 weight: 10
 ---

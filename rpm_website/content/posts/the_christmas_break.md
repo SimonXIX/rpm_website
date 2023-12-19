@@ -6,6 +6,7 @@ menu:
 title: The Christmas Break (2023) - 99 mins
 categories: [
   'film',
+  'Christmas'
 ]
 weight: 10
 ---

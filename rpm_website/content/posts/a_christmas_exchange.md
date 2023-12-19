@@ -6,7 +6,8 @@ menu:
 title: A Christmas Exchange (2020) - 80 mins
 categories: [
   'film',
-  'missed-part-of-it'
+  'missed-part-of-it',
+  'Christmas'
 ]
 weight: 10
 ---

@@ -5,7 +5,8 @@ menu:
   main:
 title: A Merry Scottish Christmas (2023) - 84 mins
 categories: [
-  'film'
+  'film',
+  'Christmas'
 ]
 weight: 10
 ---

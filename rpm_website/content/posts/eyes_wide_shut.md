@@ -5,7 +5,8 @@ menu:
   main:
 title: Eyes Wide Shut (1999) - 159 mins
 categories: [
-  'film'
+  'film',
+  'Christmas'
 ]
 weight: 10
 ---

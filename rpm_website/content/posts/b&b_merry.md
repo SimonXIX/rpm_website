@@ -6,6 +6,7 @@ menu:
 title: B&B Merry (2022) - 85 mins
 categories: [
   'film',
+  'Christmas'
 ]
 weight: 10
 ---
