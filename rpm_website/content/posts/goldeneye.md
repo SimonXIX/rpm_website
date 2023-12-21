@@ -5,7 +5,8 @@ menu:
   main:
 title: GoldenEye (1995) - 130 mins
 categories: [
-  'film'
+  'film',
+  'Bond'
 ]
 weight: 10
 ---
