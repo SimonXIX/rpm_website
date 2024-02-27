@@ -23,7 +23,7 @@ summaryLength = 20
 mainSections = ["posts"]
 headTitle = 'Reviews Per Minute'
 description = 'film reviews as long as the films'
-footer = 'This website is © 2023 Simon Bowie and is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).'
+footer = 'This website is © 2023–2024 Simon Bowie and is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).'
 count = 20969
 
 [[params.links]]
