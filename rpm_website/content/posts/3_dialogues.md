@@ -12,4 +12,3 @@ weight: 10
 ---
 
 A reflection on how machine learning reduces the human experience to mere data points.
-
