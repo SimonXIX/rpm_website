@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reviewsperminute.simonxix.com/drafts/love_lies_bleeding/</loc>
+    <loc>https://reviewsperminute.simonxix.com/posts/love_lies_bleeding/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/restore_point/</loc>
@@ -671,9 +671,6 @@
     <loc>https://reviewsperminute.simonxix.com/categories/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reviewsperminute.simonxix.com/drafts/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/film/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
   </url><url>
@@ -688,6 +685,9 @@
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reviewsperminute.simonxix.com/drafts/</loc>
+    <lastmod>2024-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/bond/</loc>
     <lastmod>2023-12-31T00:00:00+00:00</lastmod>
