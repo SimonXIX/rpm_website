@@ -7,7 +7,7 @@ title: Tummy Monster (2023) - 85 mins
 categories: [
   'film',
   'GFF2024',
-  'TAKE ONE'
+  'TAKE-ONE'
 ]
 weight: 10
 ---

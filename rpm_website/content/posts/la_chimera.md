@@ -7,7 +7,7 @@ title: La chimera (2023) - 133 mins
 categories: [
   'film',
   'GFF2024',
-  'TAKE ONE'
+  'TAKE-ONE'
 ]
 weight: 10
 ---

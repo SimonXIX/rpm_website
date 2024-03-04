@@ -7,7 +7,7 @@ title: The Burning Season (2023) - 89 mins
 categories: [
   'film',
   'GFF2024',
-  'TAKE ONE'
+  'TAKE-ONE'
 ]
 weight: 10
 ---

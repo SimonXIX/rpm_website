@@ -7,7 +7,7 @@ title: The Vourdalak (Le Vourdalak) (2023) - 90 mins
 categories: [
   'film',
   'GFF2024',
-  'TAKE ONE'
+  'TAKE-ONE'
 ]
 weight: 10
 ---
