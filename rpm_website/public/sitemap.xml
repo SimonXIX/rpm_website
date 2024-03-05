@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://reviewsperminute.simonxix.com/drafts/woken/</loc>
+    <loc>https://reviewsperminute.simonxix.com/posts/woken/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/la_chimera/</loc>
+    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://reviewsperminute.simonxix.com/posts/sorcery/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/posts/lousy_carter/</loc>
@@ -680,20 +683,17 @@
     <loc>https://reviewsperminute.simonxix.com/categories/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reviewsperminute.simonxix.com/drafts/</loc>
-    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/film/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/gff2024/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reviewsperminute.simonxix.com/</loc>
+    <loc>https://reviewsperminute.simonxix.com/posts/</loc>
     <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://reviewsperminute.simonxix.com/posts/</loc>
-    <lastmod>2024-03-02T00:00:00+00:00</lastmod>
+    <loc>https://reviewsperminute.simonxix.com/</loc>
+    <lastmod>2024-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://reviewsperminute.simonxix.com/categories/take-one/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
