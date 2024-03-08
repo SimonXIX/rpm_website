@@ -7,7 +7,8 @@ title: Lousy Carter (2023) - 80 mins
 categories: [
   'film',
   'GFF2024',
-  'TAKE-ONE'
+  'TAKE-ONE',
+  'GFT'
 ]
 weight: 10
 ---

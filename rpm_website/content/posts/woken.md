@@ -7,6 +7,7 @@ title: Woken (2024) - 90 mins
 categories: [
   'film',
   'GFF2024',
+  'GFT'
 ]
 weight: 10
 ---
