@@ -3,7 +3,7 @@ date: 2024-03-22
 linktitle: Menarca
 menu:
   main:
-title: Menarca (Menarca) (2020) - 22 mins
+title: Menarche (Menarca) (2020) - 22 mins
 categories: [
   'short-film',
   'GSFF2024',
