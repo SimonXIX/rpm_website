@@ -2,8 +2,12 @@ baseURL = 'https://reviewsperminute.simonxix.com/'
 languageCode = 'en-gb'
 title = 'Reviews Per Minute'
 theme = 'yinante'
-paginate = 10
 summaryLength = 20
+
+[pagination]
+  disableAliases = false
+  pagerSize = 10
+  path = 'page'
 
 [markup]
   [markup.goldmark]
@@ -15,11 +19,8 @@ summaryLength = 20
     style = "bw"
     tabWidth = 2
 
-[author]
-  name = "Simon Bowie"
-  homepage = "https://simonxix.com/"
-
 [params]
+author = "Simon Bowie"
 mainSections = ["posts"]
 headTitle = 'Reviews Per Minute'
 description = 'film reviews as long as the films'

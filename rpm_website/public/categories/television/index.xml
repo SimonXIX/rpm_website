@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>television on Reviews Per Minute</title>
+    <title>Television on Reviews Per Minute</title>
     <link>https://reviewsperminute.simonxix.com/categories/television/</link>
-    <description>Recent content in television on Reviews Per Minute</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Television on Reviews Per Minute</description>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://reviewsperminute.simonxix.com/categories/television/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://reviewsperminute.simonxix.com/categories/television/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lot No. 249 (2023) - 30 mins</title>
       <link>https://reviewsperminute.simonxix.com/posts/lot_249/</link>
       <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://reviewsperminute.simonxix.com/posts/lot_249/</guid>
-      <description>A forgettable adaptation. Mark Gatiss’ new episodes consistently fail to capture the eerie atmosphere of the ‘70s A Ghost Story for Christmas shorts and they end up feeling awfully flat.</description>
+      <description>&lt;p&gt;A forgettable adaptation. Mark Gatiss’ new episodes consistently fail to capture the eerie atmosphere of the ‘70s &lt;em&gt;A Ghost Story for Christmas&lt;/em&gt; shorts and they end up feeling awfully flat.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Michael Bolton’s Big, Sexy Valentine’s Day Special (2017) - 54 mins</title>
       <link>https://reviewsperminute.simonxix.com/posts/michael_bolton/</link>
       <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://reviewsperminute.simonxix.com/posts/michael_bolton/</guid>
-      <description>I watch this every year around this date and I would do so even if it were nothing but Maya Rudolph’s ‘Key Change’ song.</description>
+      <description>&lt;p&gt;I watch this every year around this date and I would do so even if it were nothing but Maya Rudolph’s ‘Key Change’ song. It’s interesting how it showcases the different comedy and performance styles of the various UCB-style comedians involved even as it feels distinctly like The Lonely Island and Comedy Bang Bang.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lost Hearts (1973) - 35 mins</title>
       <link>https://reviewsperminute.simonxix.com/posts/lost_hearts/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://reviewsperminute.simonxix.com/posts/lost_hearts/</guid>
-      <description>Not my favourite of Lawrence Gordon Clark’s Ghost Stories for Christmas, LOST HEARTS is altogether too literal. Adaptations of James work best when the haunting is diffuse, unknowable, and tied to the ghost of England.</description>
+      <description>&lt;p&gt;Not my favourite of Lawrence Gordon Clark’s Ghost Stories for Christmas, LOST HEARTS is altogether too literal. Adaptations of James work best when the haunting is diffuse, unknowable, and tied to the ghost of England.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
