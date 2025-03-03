@@ -3,7 +3,7 @@ date: 2025-03-01
 linktitle: Peacock
 menu:
   main:
-title: Peacock (2024) - 102 mins
+title: Peacock (Pfau - Bin ich echt?) (2024) - 102 mins
 categories: [
   'film',
   'GFF2025',
