@@ -7,6 +7,7 @@ title: Mr. K (2024) - 94 mins
 categories: [
   'film',
   'GFF2025',
+  'TAKE-ONE'
 ]
 weight: 10
 ---
